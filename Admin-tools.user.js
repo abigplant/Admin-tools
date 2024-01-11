@@ -9,4 +9,4 @@
 //
 // @description Hides support and developer tools from the bottom left of the admin while viewing as a support advisor. Hover and scroll down over the settings button to reveal settings
 // ==/UserScript==
-GM_addStyle('.vNwaY {height: 4.3em; overflow: hidden;} .vNwaY:hover {overflow: visible;}');
+GM_addStyle('._StickyBottomNav_1fe9e_3 {height: 4.3em; overflow: hidden;} ._StickyBottomNav_1fe9e_3:hover {overflow: visible;}');
