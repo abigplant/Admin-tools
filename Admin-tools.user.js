@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Hide admin tools - testing
+// @name        Hide admin tools
 // @namespace   Violentmonkey Scripts
 // @include     https://admin.shopify.com/store/*
 // @include     https://*.myshopify.com/admin*
